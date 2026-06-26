@@ -9,7 +9,7 @@ This repository is used to manage tasks related to the Red Cross/Red Crescent re
 - SIMS Portal page
 - [Learn SIMS: standards and guidance for SIMS products](https://learn-sims.org)  
 - [Task board: invite only](https://github.com/orgs/Surge-Information-Management-Support/projects/31)  
-- Slack channel: invite only  
+- [Slack channel: invite only](https://sims-ifrc.slack.com/archives/C0BD6V1876X)
   
 **Contributing**
 
